@@ -1,4 +1,7 @@
 {
-  "name": "amartech1",
-  "description": "Trusted POS Validator to help the network"
- }
+  "name": "AMARTECH",
+  "website": "https://twitter.com/CryptoThreadGuy",
+  "description": "Trusted POS Validator Node to help EigenLayer Network",
+  "logo": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
+  "twitter": "https://twitter.com/CryptoThreadGuy"
+}
